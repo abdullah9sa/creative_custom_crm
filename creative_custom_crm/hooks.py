@@ -15,7 +15,7 @@ fixtures = [
      {
         "doctype": "Property Setter",
         "filters": [
-            ["name", "in", ["Lead-type-options","Lead-type-options",]]
+            ["name", "in", ["Lead-type-options","Lead-status-options",]]
         ]
     },
     {
