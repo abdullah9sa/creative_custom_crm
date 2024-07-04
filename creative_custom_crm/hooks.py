@@ -4,6 +4,58 @@ app_publisher = "CAT"
 app_description = "Custom CRM"
 app_email = "info@creativeadvtech.com"
 app_license = "mit"
+
+fixtures = [
+    {
+        "doctype": "Market Segment",
+        "filters": [
+            ["name", "in", ["Sister company", "Large / Corporate", "SMB", "Government"]]
+        ]
+    },
+    {
+        "doctype": "Market Segment",
+        "filters": [
+            ["name", "in", [
+                "IT & Software",
+                "Energy and Utilities",
+                "Media and Entertainment",
+                "Healthcare",
+                "Government and Public Sector",
+                "Finance and Banking",
+                "E-commerce and Retail"
+            ]]
+        ]
+    },
+    {
+        "doctype": "Industry Type",
+        "filters": [
+            ["industry", "in", ["Government and Public Sector"]]
+        ]
+    },
+    {
+        "doctype": "Sub Industry"
+    },
+    {
+        "doctype": "Lead Source",
+        "filters": [
+            ["source_name", "in", [
+                "Name of the person",
+                "Aexus",
+                "Company website",
+                "Social media",
+                "LinkedIn"
+            ]]
+        ]
+    },
+    {
+        "doctype": "Campaign",
+        "filters": [
+            ["campaign_name", "in", ["Internal referral","Lead generation partner","Inbound"]]
+        ]
+    },
+]
+
+
 # required_apps = []
 
 # Includes in <head>
@@ -28,7 +80,7 @@ app_license = "mit"
 # page_js = {"page" : "public/js/file.js"}
 
 # include js in doctype views
-# doctype_js = {"doctype" : "public/js/doctype.js"}
+doctype_js = {"Lead" : "public/js/lead.js"}
 # doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}

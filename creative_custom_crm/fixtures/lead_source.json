@@ -1,0 +1,42 @@
+[
+ {
+  "details": null,
+  "docstatus": 0,
+  "doctype": "Lead Source",
+  "modified": "2024-07-04 10:03:15.497156",
+  "name": "Name of the person",
+  "source_name": "Name of the person"
+ },
+ {
+  "details": null,
+  "docstatus": 0,
+  "doctype": "Lead Source",
+  "modified": "2024-07-04 10:03:23.737927",
+  "name": "Aexus",
+  "source_name": "Aexus"
+ },
+ {
+  "details": null,
+  "docstatus": 0,
+  "doctype": "Lead Source",
+  "modified": "2024-07-04 10:03:28.413307",
+  "name": "Company website",
+  "source_name": "Company website"
+ },
+ {
+  "details": null,
+  "docstatus": 0,
+  "doctype": "Lead Source",
+  "modified": "2024-07-04 10:03:32.206084",
+  "name": "Social media",
+  "source_name": "Social media"
+ },
+ {
+  "details": null,
+  "docstatus": 0,
+  "doctype": "Lead Source",
+  "modified": "2024-07-04 10:03:34.811647",
+  "name": "LinkedIn",
+  "source_name": "LinkedIn"
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "campaign_name": "Internal referral",
+  "campaign_schedules": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Campaign",
+  "modified": "2024-07-04 10:21:07.605340",
+  "name": "Internal referral",
+  "naming_series": "SAL-CAM-.YYYY.-"
+ },
+ {
+  "campaign_name": "Lead generation partner",
+  "campaign_schedules": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Campaign",
+  "modified": "2024-07-04 10:21:11.719524",
+  "name": "Lead generation partner",
+  "naming_series": "SAL-CAM-.YYYY.-"
+ },
+ {
+  "campaign_name": "Inbound",
+  "campaign_schedules": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Campaign",
+  "modified": "2024-07-04 10:21:15.010810",
+  "name": "Inbound",
+  "naming_series": "SAL-CAM-.YYYY.-"
+ }
+]

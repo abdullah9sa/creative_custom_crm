@@ -1,0 +1,378 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Retail & Wholesale",
+  "modified": "2024-07-04 09:56:23.701403",
+  "name": "Online Marketplaces",
+  "sub_industry": "Online Marketplaces"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Retail & Wholesale",
+  "modified": "2024-07-04 09:56:34.020603",
+  "name": "Brick-and-Mortar Stores",
+  "sub_industry": "Brick-and-Mortar Stores"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Retail & Wholesale",
+  "modified": "2024-07-04 09:55:59.433756",
+  "name": "Retail Chains",
+  "sub_industry": "Retail Chains"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Retail & Wholesale",
+  "modified": "2024-07-04 09:56:11.388745",
+  "name": "Fashion and Apparel",
+  "sub_industry": "Fashion and Apparel"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Education",
+  "modified": "2024-07-04 09:41:53.132621",
+  "name": "K-12 Schools",
+  "sub_industry": "K-12 Schools"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Education",
+  "modified": "2024-07-04 09:42:00.773044",
+  "name": "Higher Education Institutions",
+  "sub_industry": "Higher Education Institutions"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Education",
+  "modified": "2024-07-04 09:42:04.234502",
+  "name": "EdTech Companies",
+  "sub_industry": "EdTech Companies"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Education",
+  "modified": "2024-07-04 09:42:30.409022",
+  "name": "Online Course Providers",
+  "sub_industry": "Online Course Providers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Financial Services",
+  "modified": "2024-07-04 09:46:24.130272",
+  "name": "Banks",
+  "sub_industry": "Banks"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Financial Services",
+  "modified": "2024-07-04 09:45:50.587463",
+  "name": "Investment Firms",
+  "sub_industry": "Investment Firms"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Financial Services",
+  "modified": "2024-07-04 09:45:57.530409",
+  "name": "Insurance Companies",
+  "sub_industry": "Insurance Companies"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Financial Services",
+  "modified": "2024-07-04 09:46:03.748188",
+  "name": "Fintech Startups",
+  "sub_industry": "Fintech Startups"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Government and Public Sector",
+  "modified": "2024-07-04 09:47:02.355279",
+  "name": "Federal Agencies",
+  "sub_industry": "Federal Agencies"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Government and Public Sector",
+  "modified": "2024-07-04 09:47:05.193950",
+  "name": "State and Local Government",
+  "sub_industry": "State and Local Government"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Government and Public Sector",
+  "modified": "2024-07-04 09:47:10.099767",
+  "name": "Public Safety",
+  "sub_industry": "Public Safety"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Government and Public Sector",
+  "modified": "2024-07-04 09:47:12.926347",
+  "name": "Non-Profit Organizations",
+  "sub_industry": "Non-Profit Organizations"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Telecommunications",
+  "modified": "2024-07-04 09:47:23.080848",
+  "name": "Mobile Network Operators",
+  "sub_industry": "Mobile Network Operators"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Telecommunications",
+  "modified": "2024-07-04 09:47:25.949164",
+  "name": "Internet Service Providers",
+  "sub_industry": "Internet Service Providers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Telecommunications",
+  "modified": "2024-07-04 09:47:29.269605",
+  "name": "VoIP Services",
+  "sub_industry": "VoIP Services"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Telecommunications",
+  "modified": "2024-07-04 09:47:32.534390",
+  "name": "Satellite Communications",
+  "sub_industry": "Satellite Communications"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Health Care",
+  "modified": "2024-07-04 09:57:14.498191",
+  "name": "Hospitals and Clinics",
+  "sub_industry": "Hospitals and Clinics"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Health Care",
+  "modified": "2024-07-04 09:57:04.929801",
+  "name": "Pharmaceuticals",
+  "sub_industry": "Pharmaceuticals"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Health Care",
+  "modified": "2024-07-04 09:57:09.520120",
+  "name": "Health Insurance",
+  "sub_industry": "Health Insurance"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Health Care",
+  "modified": "2024-07-04 09:56:58.391509",
+  "name": "Telemedicine",
+  "sub_industry": "Telemedicine"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Manufacturing",
+  "modified": "2024-07-04 09:48:00.832700",
+  "name": "Automotive",
+  "sub_industry": "Automotive"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Manufacturing",
+  "modified": "2024-07-04 09:48:03.321367",
+  "name": "Consumer Goods",
+  "sub_industry": "Consumer Goods"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Manufacturing",
+  "modified": "2024-07-04 09:48:08.426014",
+  "name": "Industrial Equipment",
+  "sub_industry": "Industrial Equipment"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Manufacturing",
+  "modified": "2024-07-04 09:48:12.113890",
+  "name": "Aerospace",
+  "sub_industry": "Aerospace"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Transportation",
+  "modified": "2024-07-04 09:48:39.779757",
+  "name": "Freight and Shipping",
+  "sub_industry": "Freight and Shipping"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Transportation",
+  "modified": "2024-07-04 09:48:42.773263",
+  "name": "Public Transit",
+  "sub_industry": "Public Transit"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Transportation",
+  "modified": "2024-07-04 09:48:45.786960",
+  "name": "Ride-Hailing Services",
+  "sub_industry": "Ride-Hailing Services"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Transportation",
+  "modified": "2024-07-04 09:48:48.892997",
+  "name": "Logistics Companies",
+  "sub_industry": "Logistics Companies"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Entertainment & Leisure",
+  "modified": "2024-07-04 09:58:58.871945",
+  "name": "Film and Television",
+  "sub_industry": "Film and Television"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Entertainment & Leisure",
+  "modified": "2024-07-04 09:58:35.759905",
+  "name": "Gaming",
+  "sub_industry": "Gaming"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Entertainment & Leisure",
+  "modified": "2024-07-04 09:58:43.239285",
+  "name": "Publishing",
+  "sub_industry": "Publishing"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Entertainment & Leisure",
+  "modified": "2024-07-04 09:58:53.066773",
+  "name": "Music and Audio",
+  "sub_industry": "Music and Audio"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Real Estate",
+  "modified": "2024-07-04 09:49:13.498578",
+  "name": "Residential",
+  "sub_industry": "Residential"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Real Estate",
+  "modified": "2024-07-04 09:49:16.948593",
+  "name": "Commercial",
+  "sub_industry": "Commercial"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Real Estate",
+  "modified": "2024-07-04 09:49:19.628362",
+  "name": "Property Management",
+  "sub_industry": "Property Management"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Real Estate",
+  "modified": "2024-07-04 09:49:23.715001",
+  "name": "Real Estate Investment",
+  "sub_industry": "Real Estate Investment"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Energy",
+  "modified": "2024-07-04 09:49:33.376468",
+  "name": "Renewable Energy",
+  "sub_industry": "Renewable Energy"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Energy",
+  "modified": "2024-07-04 09:49:36.767145",
+  "name": "Oil and Gas",
+  "sub_industry": "Oil and Gas"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Energy",
+  "modified": "2024-07-04 09:49:40.130275",
+  "name": "Electricity Providers",
+  "sub_industry": "Electricity Providers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Energy",
+  "modified": "2024-07-04 09:49:42.777285",
+  "name": "Water Utilities",
+  "sub_industry": "Water Utilities"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Software",
+  "modified": "2024-07-04 09:50:02.956540",
+  "name": "Data center",
+  "sub_industry": "Data center"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Software",
+  "modified": "2024-07-04 09:50:06.216273",
+  "name": "Software development",
+  "sub_industry": "Software development"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sub Industry",
+  "industry": "Software",
+  "modified": "2024-07-04 09:50:09.227448",
+  "name": "IT",
+  "sub_industry": "IT"
+ }
+]

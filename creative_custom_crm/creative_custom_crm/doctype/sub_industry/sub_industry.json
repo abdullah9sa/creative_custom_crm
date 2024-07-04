@@ -1,0 +1,55 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:sub_industry",
+ "creation": "2024-07-04 09:39:24.343188",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "industry",
+  "sub_industry"
+ ],
+ "fields": [
+  {
+   "fieldname": "sub_industry",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Sub Industry",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "industry",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Industry Type",
+   "options": "Industry Type",
+   "reqd": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-07-04 09:40:48.449477",
+ "modified_by": "Administrator",
+ "module": "Creative Custom Crm",
+ "name": "Sub Industry",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
