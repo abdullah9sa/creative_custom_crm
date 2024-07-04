@@ -12,6 +12,18 @@ fixtures = [
             ["name", "in", ["Sister company", "Large / Corporate", "SMB", "Government"]]
         ]
     },
+     {
+        "doctype": "Property Setter",
+        "filters": [
+            ["name", "in", ["Lead-type-options","Lead-type-options",]]
+        ]
+    },
+    {
+        "doctype": "Custom Field",
+        "filters": [
+            ["name", "in", ["Lead-custom_sub_industry"]]
+        ]
+    },
     {
         "doctype": "Market Segment",
         "filters": [
