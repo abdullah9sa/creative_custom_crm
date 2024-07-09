@@ -12,7 +12,7 @@ fixtures = [
             ["name", "in", ["Sister company", "Large / Corporate", "SMB", "Government"]]
         ]
     },
-         {
+     {
         "doctype": "Property Setter",
         "filters": [
             ["name", "in", ["Lead-type-options","Lead-status-options",]]
@@ -25,10 +25,10 @@ fixtures = [
         ]
     },
     {
-        "doctype": "Market Segment",
+        "doctype": "Industry Type",
         "filters": [
             ["name", "in", [
-                "Sister company","SMB","Large / Corporate","Government",
+                "Government and Public Sector",
             ]]
         ]
     },
@@ -180,13 +180,13 @@ doctype_js = {"Lead" : "public/js/lead.js"}
 # ---------------
 # Hook on document methods and events
 
-# doc_events = {
-# 	"*": {
-# 		"on_update": "method",
-# 		"on_cancel": "method",
-# 		"on_trash": "method"
-# 	}
-# }
+doc_events = {
+    "Lead": {
+        "validate": [
+            "creative_custom_crm.creative_custom_crm.events.validate_lead_status"
+        ]
+    },
+}
 
 # Scheduled Tasks
 # ---------------
