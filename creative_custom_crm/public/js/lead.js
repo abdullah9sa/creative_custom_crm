@@ -6,6 +6,14 @@ frappe.ui.form.on('Lead', {
                     industry: frm.doc.industry
                 }
             }
-        })
+        });
+
+        frm.set_query('market_segment', () => {
+            return {
+                filters: {
+                    name: ["in", ["Government", "SMB", "Large / Corporate", "Sister company"]] 
+                }
+            }
+        });
     },
 })
