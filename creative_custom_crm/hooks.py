@@ -15,20 +15,21 @@ fixtures = [
      {
         "doctype": "Property Setter",
         "filters": [
-            ["name", "in", ["Lead-type-options","Lead-status-options",]]
+            ["name", "in", ["Lead-type-options","Lead-status-options","Lead-request_type-hidden"]]
         ]
     },
     {
         "doctype": "Custom Field",
         "filters": [
-            ["name", "in", ["Lead-custom_sub_industry"]]
+            ["name", "in", ["Lead-custom_sub_industry","Opportunity-custom_request_type","Lead-custom_lead_actions_table","Opportunity-custom_product_type","Opportunity-custom_deal_type"]]
         ]
     },
     {
         "doctype": "Industry Type",
         "filters": [
             ["name", "in", [
-                "Government and Public Sector",
+                "E-commerce and Retail", "Education", "Finance and Banking", "Government and Public Sector",
+                "Telecommunications", "Transportation and Logistics","Media and Entertainment","Energy and Utilities"
             ]]
         ]
     },
@@ -86,7 +87,11 @@ fixtures = [
 # page_js = {"page" : "public/js/file.js"}
 
 # include js in doctype views
-doctype_js = {"Lead" : "public/js/lead.js"}
+doctype_js = {
+    "Lead" : "public/js/lead.js",
+    "Opportunity" : "public/js/opportunity.js",
+    
+}
 # doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}

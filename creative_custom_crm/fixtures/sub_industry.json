@@ -66,32 +66,32 @@
  {
   "docstatus": 0,
   "doctype": "Sub Industry",
-  "industry": "Financial Services",
-  "modified": "2024-07-04 09:46:24.130272",
+  "industry": "Finance and Banking",
+  "modified": "2024-07-17 10:14:53.582304",
   "name": "Banks",
   "sub_industry": "Banks"
  },
  {
   "docstatus": 0,
   "doctype": "Sub Industry",
-  "industry": "Financial Services",
-  "modified": "2024-07-04 09:45:50.587463",
+  "industry": "Finance and Banking",
+  "modified": "2024-07-17 10:14:47.599582",
   "name": "Investment Firms",
   "sub_industry": "Investment Firms"
  },
  {
   "docstatus": 0,
   "doctype": "Sub Industry",
-  "industry": "Financial Services",
-  "modified": "2024-07-04 09:45:57.530409",
+  "industry": "Finance and Banking",
+  "modified": "2024-07-17 10:14:44.743504",
   "name": "Insurance Companies",
   "sub_industry": "Insurance Companies"
  },
  {
   "docstatus": 0,
   "doctype": "Sub Industry",
-  "industry": "Financial Services",
-  "modified": "2024-07-04 09:46:03.748188",
+  "industry": "Finance and Banking",
+  "modified": "2024-07-17 10:14:50.335582",
   "name": "Fintech Startups",
   "sub_industry": "Fintech Startups"
  },
@@ -226,16 +226,16 @@
  {
   "docstatus": 0,
   "doctype": "Sub Industry",
-  "industry": "Transportation",
-  "modified": "2024-07-04 09:48:39.779757",
+  "industry": "Transportation and Logistics",
+  "modified": "2024-07-17 10:16:10.306414",
   "name": "Freight and Shipping",
   "sub_industry": "Freight and Shipping"
  },
  {
   "docstatus": 0,
   "doctype": "Sub Industry",
-  "industry": "Transportation",
-  "modified": "2024-07-04 09:48:42.773263",
+  "industry": "Transportation and Logistics",
+  "modified": "2024-07-17 10:16:16.990669",
   "name": "Public Transit",
   "sub_industry": "Public Transit"
  },
@@ -250,40 +250,40 @@
  {
   "docstatus": 0,
   "doctype": "Sub Industry",
-  "industry": "Transportation",
-  "modified": "2024-07-04 09:48:48.892997",
+  "industry": "Transportation and Logistics",
+  "modified": "2024-07-17 10:16:13.743833",
   "name": "Logistics Companies",
   "sub_industry": "Logistics Companies"
  },
  {
   "docstatus": 0,
   "doctype": "Sub Industry",
-  "industry": "Entertainment & Leisure",
-  "modified": "2024-07-04 09:58:58.871945",
+  "industry": "Media and Entertainment",
+  "modified": "2024-07-17 10:12:39.904194",
   "name": "Film and Television",
   "sub_industry": "Film and Television"
  },
  {
   "docstatus": 0,
   "doctype": "Sub Industry",
-  "industry": "Entertainment & Leisure",
-  "modified": "2024-07-04 09:58:35.759905",
+  "industry": "Media and Entertainment",
+  "modified": "2024-07-17 10:12:51.877889",
   "name": "Gaming",
   "sub_industry": "Gaming"
  },
  {
   "docstatus": 0,
   "doctype": "Sub Industry",
-  "industry": "Entertainment & Leisure",
-  "modified": "2024-07-04 09:58:43.239285",
+  "industry": "Media and Entertainment",
+  "modified": "2024-07-17 10:12:47.669863",
   "name": "Publishing",
   "sub_industry": "Publishing"
  },
  {
   "docstatus": 0,
   "doctype": "Sub Industry",
-  "industry": "Entertainment & Leisure",
-  "modified": "2024-07-04 09:58:53.066773",
+  "industry": "Media and Entertainment",
+  "modified": "2024-07-17 10:12:44.142159",
   "name": "Music and Audio",
   "sub_industry": "Music and Audio"
  },
@@ -322,32 +322,32 @@
  {
   "docstatus": 0,
   "doctype": "Sub Industry",
-  "industry": "Energy",
-  "modified": "2024-07-04 09:49:33.376468",
+  "industry": "Energy and Utilities",
+  "modified": "2024-07-17 10:13:55.517415",
   "name": "Renewable Energy",
   "sub_industry": "Renewable Energy"
  },
  {
   "docstatus": 0,
   "doctype": "Sub Industry",
-  "industry": "Energy",
-  "modified": "2024-07-04 09:49:36.767145",
+  "industry": "Energy and Utilities",
+  "modified": "2024-07-17 10:13:48.043355",
   "name": "Oil and Gas",
   "sub_industry": "Oil and Gas"
  },
  {
   "docstatus": 0,
   "doctype": "Sub Industry",
-  "industry": "Energy",
-  "modified": "2024-07-04 09:49:40.130275",
+  "industry": "Energy and Utilities",
+  "modified": "2024-07-17 10:14:00.207619",
   "name": "Electricity Providers",
   "sub_industry": "Electricity Providers"
  },
  {
   "docstatus": 0,
   "doctype": "Sub Industry",
-  "industry": "Energy",
-  "modified": "2024-07-04 09:49:42.777285",
+  "industry": "Energy and Utilities",
+  "modified": "2024-07-17 10:13:52.217170",
   "name": "Water Utilities",
   "sub_industry": "Water Utilities"
  },

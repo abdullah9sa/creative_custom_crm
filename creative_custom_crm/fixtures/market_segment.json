@@ -1,1 +1,30 @@
-[]
+[
+ {
+  "docstatus": 0,
+  "doctype": "Market Segment",
+  "market_segment": "Government",
+  "modified": "2024-07-04 09:26:57.511861",
+  "name": "Government"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Market Segment",
+  "market_segment": "SMB",
+  "modified": "2024-07-04 09:27:05.692034",
+  "name": "SMB"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Market Segment",
+  "market_segment": "Large / Corporate",
+  "modified": "2024-07-04 09:27:10.697286",
+  "name": "Large / Corporate"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Market Segment",
+  "market_segment": "Sister company",
+  "modified": "2024-07-04 09:27:14.280547",
+  "name": "Sister company"
+ }
+]
